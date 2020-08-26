@@ -1,0 +1,9 @@
+node_modules/
+build/
+coverage
+tmp/*
+!tmp/uploads
+!tmp/.gitkeep
+tmp/uploads/*
+.env
+ormconfig.json
